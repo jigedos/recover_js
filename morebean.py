@@ -1,8 +1,8 @@
 {
   "urls": [
            {
-      "url": "https://tvkj888.cn/tvys/svip.json",
-      "name": "🚀天微影视VIP线🚀"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js.json",
+      "name": "🚀道长线路🚀"
     },
          {
       "url": "https://tvkj888.cn/QX/svip.json",
