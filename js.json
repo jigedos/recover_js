@@ -2,17 +2,9 @@
   "spider": "./jar/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74",
   "lives": [
     {
-      "name": "初秋语",
-      "type": 0,
-      "url": "./list.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "live",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/live.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/list.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
