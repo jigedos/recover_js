@@ -41,14 +41,14 @@
             "key": "sharenice_open",
             "name": "短视频[cat]",
             "type": 3,
-            "api": "./cat/js/js/sharenice_open.js",
+            "api": "./cat/js/sharenice_open.js",
             "playerType": "2"
         },
         {
             "key": "猫南瓜",
             "name": "南瓜[cat]",
             "type": 3,
-            "api": "./cat/js/js/猫南瓜.js"
+            "api": "./cat/js/猫南瓜.js"
         },
         {
             "key": "555",
