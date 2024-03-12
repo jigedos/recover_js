@@ -1,52 +1,42 @@
 [
-    {
-        "name": "超级MV",
-        "url": "http://vip.vip0531.com/viptv/text/MV.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
-    },
-     
-    {
-        "name": "abroad1",
-        "url": "https://raw.githubusercontent.com/aabadfer/iptv/main/STAR-MARRANO.m3u&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
-    },
-
-     
-    {
-        "name": "abroad2",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gluk03/iptvgluk/main/TV.m3u&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
-    },
-
-     
-    {
-        "name": "abroad3",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gluk03/iptvgluk/main/tizam.m3u&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
-    },
-    
-    
-    {
-        "name": "jp",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
-    },
-    
-    {
-        "name": "传媒",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/AV6.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
-    },
-    
-    {
-        "name": "A4",
-        "url": https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/AV4.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
-    },
-    
-    {
-        "name": "A3",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/AV3.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
-    },
-    {
-        "name": "HONKONG DOLL",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/AV2.txt&&&https://myhkw.cn/open/img/mm"
-    },
-    {
-        "name": "COLLECT",
-        "url": "https://gitlab.com/602700627/MTQ-AUTOTEST/-/raw/master/live2%E5%B8%A6%E6%B8%85%E6%99%B0%E5%BA%A6.txt?ref_type=heads&inline=false&&&https://s1.ax1x.com/2023/06/08/pCkdDKg.jpg"
-    }
+  {
+    "name": "超级MV",
+    "url": "http://vip.vip0531.com/viptv/text/MV.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "abroad1",
+    "url": "https://raw.githubusercontent.com/aabadfer/iptv/main/STAR-MARRANO.m3u&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "abroad2",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gluk03/iptvgluk/main/TV.m3u&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "abroad3",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gluk03/iptvgluk/main/tizam.m3u&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "jp",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "传媒",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/AV6.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "A4",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/AV4.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "A3",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/AV3.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "HONKONG DOLL",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/AV2.txt&&&https://myhkw.cn/open/img/mm"
+  },
+  {
+    "name": "COLLECT",
+    "url": "https://gitlab.com/602700627/MTQ-AUTOTEST/-/raw/master/live2%E5%B8%A6%E6%B8%85%E6%99%B0%E5%BA%A6.txt?ref_type=heads&inline=false&&&https://s1.ax1x.com/2023/06/08/pCkdDKg.jpg"
+  }
 ]
