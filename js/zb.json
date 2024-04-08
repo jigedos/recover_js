@@ -11,16 +11,81 @@
     "name": "3春盈天下",
     "url": "https://wds.ecsxs.com/230864.json&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
   },
-  {"name":"网友YouTube自用","type":0,"url":"https://raw.githubusercontent.com/xiaolinshao/TVBox/main/自用直播油管源.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"央视频嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"timeout": 40,"url":"./央妈.m3u","boot":false},
-{"name":"酒店自动爬","type":0,"header":{"user-agent":"Mozilla/5.0(SymbianOS/9.4;Series60/5.0NokiaN97-1/20.0.019;Profile/MIDP-2.1Configuration/CLDC-1.1)AppleWebKit/525(KHTML,likeGecko)BrowserNG/7.1.18124","referer":"https://github.com/"},"url":"https://cdn.jsdelivr.net/gh/ssili126/tv/itv.tx","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"小小TV直播","type":0,"url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YouTube","type":0,"url":"https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"四千加","type":0,"url":"https://qu.ax/kBip.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"AK47","type":0,"url":"https://qu.ax/HtMB.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"垃圾堆成山","type":0,"url":"https://qu.ax/ktVO.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"┃龙龙🐉┃直播┃TV┃","type":0,"url":"https://jihulab.com/longtv/longtv/-/raw/main/tv.txt?inline=false","epg":""},
+  {
+    "name": "网友YouTube自用",
+    "type": 0,
+    "url": "https://raw.githubusercontent.com/xiaolinshao/TVBox/main/自用直播油管源.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+    "name": "央视频嗅探",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+    "type": 0,
+    "timeout": 40,
+    "url": "./央妈.m3u",
+    "boot": false
+  },
+  {
+    "name": "酒店自动爬",
+    "type": 0,
+    "header": {
+      "user-agent": "Mozilla/5.0(SymbianOS/9.4;Series60/5.0NokiaN97-1/20.0.019;Profile/MIDP-2.1Configuration/CLDC-1.1)AppleWebKit/525(KHTML,likeGecko)BrowserNG/7.1.18124",
+      "referer": "https://github.com/"
+    },
+    "url": "https://cdn.jsdelivr.net/gh/ssili126/tv/itv.tx",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+    "name": "小小TV直播",
+    "type": 0,
+    "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+    "name": "Ray•综合",
+    "type": 0,
+    "url": "https://xhdwc.tk/tvlive.txt",
+    "playerType": 1,
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+    "name": "YouTube",
+    "type": 0,
+    "url": "https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+    "name": "四千加",
+    "type": 0,
+    "url": "https://qu.ax/kBip.m3u",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+    "name": "AK47",
+    "type": 0,
+    "url": "https://qu.ax/HtMB.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+    "name": "垃圾堆成山",
+    "type": 0,
+    "url": "https://qu.ax/ktVO.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+    "name": "┃龙龙🐉┃直播┃TV┃",
+    "type": 0,
+    "url": "https://jihulab.com/longtv/longtv/-/raw/main/tv.txt?inline=false",
+    "epg": ""
+  },
   {
     "name": "4西夏",
     "url": "http://wl.iptv8.top/wl/a/1707048974.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
@@ -43,17 +108,16 @@
   },
   {
     "name": "9糖意",
-    "url": https://gitcode.net/js283311816/ty/-/raw/master/%E7%B3%96%E6%84%8F"
+    "url": "https://gitcode.net/js283311816/ty/-/raw/master/%E7%B3%96%E6%84%8F"
   },
-    {
+  {
     "name": "10柠檬",
     "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/18%2B.txt"
   },
-    {
+  {
     "name": "11天马",
     "url": "https://d.kstore.space/download/3701/%E7%91%B7%E6%B1%90%E6%B8%AF%E6%BE%B3%E5%8F%B09.txt"
   },
-
   {
     "name": "12全球",
     "url": "https://gitcode.net/shi800/xbox/-/raw/master/e.txt?inline=false"
