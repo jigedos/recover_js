@@ -8,42 +8,18 @@
     "url": "https://jihulab.com/ww4585047/jk/-/raw/main/w.txt?ref_type=heads&inline=false&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
   },
   {
-    "name": "3春盈天下",
-    "url": "https://wds.ecsxs.com/230864.json&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+    "name": "3蚂蚁直播",
+    "url": "https://download.kstore.space/download/2883/1114.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
   },
   {
-    "name": "网友YouTube自用",
+    "name": "YouTube(魔法）",
     "type": 0,
-    "url": "https://raw.githubusercontent.com/xiaolinshao/TVBox/main/自用直播油管源.txt",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolinshao/TVBox/main/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%B2%B9%E7%AE%A1%E6%BA%90.txt",
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
-  {
-    "name": "央视频嗅探",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-    "type": 0,
-    "timeout": 40,
-    "url": "./央妈.m3u",
-    "boot": false
-  },
-  {
-    "name": "酒店自动爬",
-    "type": 0,
-    "header": {
-      "user-agent": "Mozilla/5.0(SymbianOS/9.4;Series60/5.0NokiaN97-1/20.0.019;Profile/MIDP-2.1Configuration/CLDC-1.1)AppleWebKit/525(KHTML,likeGecko)BrowserNG/7.1.18124",
-      "referer": "https://github.com/"
-    },
-    "url": "https://cdn.jsdelivr.net/gh/ssili126/tv/itv.tx",
-    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
-  {
-    "name": "小小TV直播",
-    "type": 0,
-    "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
-    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
+
+
   {
     "name": "Ray•综合",
     "type": 0,
@@ -52,13 +28,7 @@
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
-  {
-    "name": "YouTube",
-    "type": 0,
-    "url": "https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u",
-    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
+
   {
     "name": "四千加",
     "type": 0,
@@ -81,7 +51,7 @@
     "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
   {
-    "name": "┃龙龙🐉┃直播┃TV┃",
+    "name": "龙龙",
     "type": 0,
     "url": "https://jihulab.com/longtv/longtv/-/raw/main/tv.txt?inline=false",
     "epg": ""
@@ -103,47 +73,21 @@
     "url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/tvlive.txt"
   },
   {
-    "name": "8瑤瑷",
-    "url": "https://d.kstore.space/download/3701/%E7%91%B7%E6%B1%90%E6%B8%AF%E6%BE%B3%E5%8F%B09.txt"
-  },
-  {
-    "name": "9糖意",
-    "url": "https://gitcode.net/js283311816/ty/-/raw/master/%E7%B3%96%E6%84%8F"
-  },
-  {
     "name": "10柠檬",
     "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/18%2B.txt"
   },
-  {
-    "name": "11天马",
-    "url": "https://d.kstore.space/download/3701/%E7%91%B7%E6%B1%90%E6%B8%AF%E6%BE%B3%E5%8F%B09.txt"
-  },
-  {
-    "name": "12全球",
-    "url": "https://gitcode.net/shi800/xbox/-/raw/master/e.txt?inline=false"
-  },
-  {
-    "name": "13过客",
-    "url": "http://jiami.guimei.work/a/1711172389.txt"
-  },
+  
+ 
   {
     "name": "14熊猫直播",
     "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/huangsuming/iptv/main/list/live.txt&&&https://s1.ax1x.com/2023/06/08/pCkdDKg.jpg"
   },
   {
-    "name": "15笑傲酱湖直播",
+    "name": "15笑傲酱湖",
     "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfpiao/IPTV/main/temp.m3u&&&https://s1.ax1x.com/2023/06/08/pCkdrrQ.png"
-  },
-  {
-    "name": "16EMO",
-    "url": "https://d.kstore.space/download/6847/emo/live/emo17.txt&&&https://s1.ax1x.com/2023/06/08/pCkdrrQ.png"
   },
   {
     "name": "IP直播",
     "url": "http://router.bopop.buzz:9999/new/autoiptv.txt&&&https://s1.ax1x.com/2023/06/08/pCkdrrQ.png"
-  },
-  {
-    "name": "tw直播",
-    "url": "http://43.224.33.165/python/flask.txt&&&https://s1.ax1x.com/2023/06/08/pCkdrrQ.png"
   }
 ]
